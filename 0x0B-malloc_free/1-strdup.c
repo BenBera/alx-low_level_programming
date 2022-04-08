@@ -1,6 +1,6 @@
 /*
  * File: 1-strdup.c
- * Auth: Brennan D Baraban
+ * Auth: Ben Bera
  */
 
 #include "main.h"

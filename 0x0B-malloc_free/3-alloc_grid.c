@@ -1,6 +1,6 @@
 /*
  * File: 3-alloc_grid.c
- * Auth: Brennan D Baraban
+ * Auth: Ben Bera
  */
 
 #include "main.h"

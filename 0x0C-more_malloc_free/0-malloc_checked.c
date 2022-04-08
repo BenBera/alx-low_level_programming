@@ -1,6 +1,6 @@
 /*
  * File: 0-malloc_checked.c
- * Auth: Brennan D Baraban
+ * Auth: Ben Bera
  */
 
 #include "main.h"

@@ -1,6 +1,6 @@
 /*
  * File: 100-realloc.c
- * Auth: Brennan D Baraban
+ * Auth: Ben Bera
  */
 
 #include "main.h"
