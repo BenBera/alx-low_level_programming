@@ -1,6 +1,6 @@
 /*
  * File: 5-flip_bits.c
- * Auth: Brennan D Baraban
+ * Auth: Ben Bera
  */
 
 #include "main.h"

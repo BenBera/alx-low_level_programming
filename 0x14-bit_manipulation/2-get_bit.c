@@ -1,6 +1,6 @@
 /*
  * File: 2-get_bit.c
- * Auth: Brennan D Baraban
+ * Auth: Ben Bera
  */
 
 #include "main.h"
